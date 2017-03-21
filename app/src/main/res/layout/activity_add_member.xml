@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="sg.edu.nus.clubmanagement.activity.AddMemberActivity"
+    >
+
+  <ScrollView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginBottom="20dp"
+      >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="20dp"
+        >
+
+      <EditText
+          android:id="@+id/et_medicine_name"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="10dp"
+          android:layout_marginStart="20dp"
+          android:layout_marginEnd="20dp"
+          android:hint="@string/medicine_name"
+          />
+
+      <EditText
+          android:id="@+id/et_medicine_desc"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginStart="20dp"
+          android:layout_marginEnd="20dp"
+          android:hint="@string/medicine_desc"
+          android:layout_below="@id/et_medicine_name"
+          />
+
+      <TextView
+          android:id="@+id/tv_cat_id"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/cat_id"
+          android:layout_marginStart="20dp"
+          android:layout_marginRight="20dp"
+          android:layout_below="@id/et_medicine_desc"
+          android:paddingLeft="4dp"
+          />
+
+      <Spinner
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_alignParentTop="true"
+          android:layout_below="@id/tv_cat_id"
+          android:text="@string/cat_id"
+          android:layout_marginTop="120dp"
+          android:layout_marginRight="20dp"
+          android:id="@+id/spinner1"
+          android:layout_alignStart="@+id/tv_cat_id" />
+
+      <EditText
+          android:id="@+id/et_remind_id"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginStart="20dp"
+          android:layout_marginEnd="20dp"
+          android:hint="@string/reminder"
+          android:layout_below="@+id/spinner1"
+          />
+
+      <!--             <TextView
+                      android:id="@+id/textView"
+                      android:text=" "
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+
+                 <Switch
+                      android:text="@string/reminder"
+                      android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:id="@+id/switch1"
+                      android:checked="false"
+                      android:layout_below="@+id/spinner1"
+                      android:layout_alignStart="@+id/spinner1"
+                      android:layout_alignParentEnd="true" />-->
+
+      <EditText
+          android:id="@+id/et_quantity"
+          android:inputType="number"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginStart="20dp"
+          android:layout_marginEnd="20dp"
+          android:hint="@string/quantity"
+          android:layout_below="@+id/et_remind_id" />
+
+      <EditText
+          android:id="@+id/et_dosage"
+          android:inputType="number"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginStart="20dp"
+          android:layout_marginEnd="20dp"
+          android:hint="@string/dosage"
+          android:layout_below="@id/et_quantity"
+          />
+
+      <EditText
+          android:id="@+id/et_threshold"
+          android:inputType="number"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginStart="20dp"
+          android:layout_marginEnd="20dp"
+          android:hint="@string/threshold"
+          android:layout_below="@+id/et_dosage"/>
+
+      <EditText
+          android:id="@+id/et_date_issued"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginStart="20dp"
+          android:layout_marginEnd="20dp"
+          android:hint="@string/date_issued"
+          android:layout_below="@id/et_threshold"
+          />
+
+      <EditText
+          android:id="@+id/et_expiry_factor"
+          android:inputType="number"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginStart="20dp"
+          android:layout_marginEnd="20dp"
+          android:hint="@string/expiry_factor"
+          android:layout_below="@id/et_date_issued"
+          />
+
+    </RelativeLayout>
+  </ScrollView>
+
+  <Button
+      android:id="@+id/btn_save"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:background="@color/colorPrimary"
+      android:text="@string/save"
+      android:textColor="@android:color/white"
+      android:layout_marginLeft="8dp"
+      android:layout_marginRight="8dp"
+      android:layout_alignParentBottom="true"/>
+</RelativeLayout>

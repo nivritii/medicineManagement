@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2a633560cdaeda284dce0bb4219b5c874a11013">
+        <dex dex="D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7b145417c099b3347226fd97b57fc9b75f65f464\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rama\.android\build-cache\bd71d8c61212eef3aa1f7e9b7115a9d940cbe9dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75f0c6aae6a82d43dde3a1ed0a88186ae3127eb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rama\.android\build-cache\c5e122c79c8e20bdf9fddd5f0dabab7d101d6fc8\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_8cf500d4d844bcae24cdf88fd2ec488c38f8e6eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rama\.android\build-cache\343e23801799786c29e7681ce953b0abcd6c917b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55d0d97bd5c429f3c79e4dd6be8510199c141357\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rama\.android\build-cache\c5e122c79c8e20bdf9fddd5f0dabab7d101d6fc8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92cc27e58311c7889e9dbea19772396d92e7b18f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rama\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_7fd5c9e127d6d3431d0b63166d780221d4a7cd13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fdbd334cfc91386e8bce48456e07e1ea3728a88d\classes.dex" />
+    </item>
+
+</items>

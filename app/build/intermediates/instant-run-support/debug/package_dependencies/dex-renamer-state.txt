@@ -1,0 +1,16 @@
+#Tue Mar 21 23:54:29 SGT 2017
+renamed.4=classes.dex
+renamed.3=classes5.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+base.4=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_55d0d97bd5c429f3c79e4dd6be8510199c141357
+renamed.0=classes4.dex
+base.3=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.1_7fd5c9e127d6d3431d0b63166d780221d4a7cd13
+base.2=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_92cc27e58311c7889e9dbea19772396d92e7b18f
+base.1=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_75f0c6aae6a82d43dde3a1ed0a88186ae3127eb3
+base.0=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.1_8cf500d4d844bcae24cdf88fd2ec488c38f8e6eb
+file.4=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_55d0d97bd5c429f3c79e4dd6be8510199c141357\\classes.dex
+file.3=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.1_7fd5c9e127d6d3431d0b63166d780221d4a7cd13\\classes.dex
+file.2=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_92cc27e58311c7889e9dbea19772396d92e7b18f\\classes.dex
+file.1=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_75f0c6aae6a82d43dde3a1ed0a88186ae3127eb3\\classes.dex
+file.0=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.1_8cf500d4d844bcae24cdf88fd2ec488c38f8e6eb\\classes.dex

@@ -1,0 +1,4 @@
+#Tue Mar 21 23:54:30 SGT 2017
+base.0=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

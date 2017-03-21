@@ -1,0 +1,7 @@
+#Wed Mar 22 00:51:05 SGT 2017
+base.0=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7b145417c099b3347226fd97b57fc9b75f65f464
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fdbd334cfc91386e8bce48456e07e1ea3728a88d\\classes.dex
+base.1=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fdbd334cfc91386e8bce48456e07e1ea3728a88d
+file.0=D\:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7b145417c099b3347226fd97b57fc9b75f65f464\\classes.dex

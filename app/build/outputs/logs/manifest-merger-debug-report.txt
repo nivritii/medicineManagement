@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:5:5-56:19
+MERGED from [com.android.support:design:23.0.1] C:\Users\rama\.android\build-cache\343e23801799786c29e7681ce953b0abcd6c917b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\rama\.android\build-cache\bd71d8c61212eef3aa1f7e9b7115a9d940cbe9dd\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\rama\.android\build-cache\c5e122c79c8e20bdf9fddd5f0dabab7d101d6fc8\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:10:9-35
+	android:allowBackup
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:11:9-40
+	android:name
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:6:9-40
+activity#sg.edu.nus.clubmanagement.activity.MainActivity
+ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:12:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:16:27-74
+activity#sg.edu.nus.clubmanagement.activity.AddMemberActivity
+ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:19:9-26:20
+	android:label
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:21:13-64
+	android:theme
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:22:13-57
+	android:name
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:20:13-55
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:23:13-25:58
+	android:value
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:25:17-55
+	android:name
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:24:17-63
+activity#sg.edu.nus.clubmanagement.activity.AddBookingActivity
+ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:27:9-34:20
+	android:label
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:29:13-63
+	android:theme
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:30:13-57
+	android:name
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:28:13-56
+activity#sg.edu.nus.clubmanagement.activity.AddFacilityActivity
+ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:35:9-41:20
+	android:label
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:36:13-64
+	android:theme
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:37:13-57
+	android:name
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:35:19-63
+activity#sg.edu.nus.clubmanagement.activity.UpdateFacilityActivity
+ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:42:9-48:20
+	android:label
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:43:13-67
+	android:theme
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:44:13-57
+	android:name
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:42:19-66
+activity#sg.edu.nus.clubmanagement.activity.UpdateMemberActivity
+ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:49:9-55:20
+	android:label
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:50:13-65
+	android:theme
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:51:13-57
+	android:name
+		ADDED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml:49:19-64
+uses-sdk
+INJECTED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.0.1] C:\Users\rama\.android\build-cache\343e23801799786c29e7681ce953b0abcd6c917b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\rama\.android\build-cache\bd71d8c61212eef3aa1f7e9b7115a9d940cbe9dd\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\rama\.android\build-cache\c5e122c79c8e20bdf9fddd5f0dabab7d101d6fc8\output\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MTech2017\SEUnit1\AndroidProject\club-management-SQLiteSearchable\app\src\main\AndroidManifest.xml

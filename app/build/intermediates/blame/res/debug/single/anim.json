@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\343e23801799786c29e7681ce953b0abcd6c917b\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\6f5ebe235685ad470b2459698ad0a5a281fc8b2e\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\bd71d8c61212eef3aa1f7e9b7115a9d940cbe9dd\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\bd71d8c61212eef3aa1f7e9b7115a9d940cbe9dd\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\343e23801799786c29e7681ce953b0abcd6c917b\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\343e23801799786c29e7681ce953b0abcd6c917b\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\343e23801799786c29e7681ce953b0abcd6c917b\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\bd71d8c61212eef3aa1f7e9b7115a9d940cbe9dd\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\bd71d8c61212eef3aa1f7e9b7115a9d940cbe9dd\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\bd71d8c61212eef3aa1f7e9b7115a9d940cbe9dd\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\bd71d8c61212eef3aa1f7e9b7115a9d940cbe9dd\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\bd71d8c61212eef3aa1f7e9b7115a9d940cbe9dd\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\bd71d8c61212eef3aa1f7e9b7115a9d940cbe9dd\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\6f5ebe235685ad470b2459698ad0a5a281fc8b2e\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\bd71d8c61212eef3aa1f7e9b7115a9d940cbe9dd\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\rama\\.android\\build-cache\\bd71d8c61212eef3aa1f7e9b7115a9d940cbe9dd\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]

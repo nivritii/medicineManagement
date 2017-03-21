@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\MTech2017\\SEUnit1\\AndroidProject\\club-management-SQLiteSearchable\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\rama\\.android\\build-cache\\bd71d8c61212eef3aa1f7e9b7115a9d940cbe9dd\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 63,
+                        "endOffset": 347
+                    }
+                }
+            }
+        ]
+    }
+]

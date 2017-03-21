@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sg.edu.nus.clubmanagement"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:name="sg.edu.nus.clubmanagement.application.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="sg.edu.nus.clubmanagement.activity.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="sg.edu.nus.clubmanagement.activity.AddMemberActivity"
+            android:label="@string/title_activity_add_medicine"
+            android:theme="@style/AppThemeWithActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+        <activity
+            android:name="sg.edu.nus.clubmanagement.activity.AddBookingActivity"
+            android:label="@string/title_activity_add_booking"
+            android:theme="@style/AppThemeWithActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+        <activity
+            android:name="sg.edu.nus.clubmanagement.activity.AddFacilityActivity"
+            android:label="@string/title_activity_add_facility"
+            android:theme="@style/AppThemeWithActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+        <activity
+            android:name="sg.edu.nus.clubmanagement.activity.UpdateFacilityActivity"
+            android:label="@string/title_activity_update_facility"
+            android:theme="@style/AppThemeWithActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+        <activity
+            android:name="sg.edu.nus.clubmanagement.activity.UpdateMemberActivity"
+            android:label="@string/title_activity_update_member"
+            android:theme="@style/AppThemeWithActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+
+        <service
+            android:name="com.android.tools.fd.runtime.InstantRunService"
+            android:exported="true" />
+    </application>
+
+</manifest>
